@@ -5,7 +5,7 @@
 
 The Hokaku is a 40% keyboard with 2 xt collums, 3 magnetic badges and a wkl stagger pcb
 
-![alt text]([https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Misc/KLE.png](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Misc/hokaku40.png)?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Misc/hokaku40.png?raw=true)
  --- 
 
 ## Case
