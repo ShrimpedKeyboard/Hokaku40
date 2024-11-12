@@ -16,8 +16,8 @@ on the back you can stick a peice of acrylic with maybe some paper with a design
 acrylic with a fancy design also has another magnetic badge
 case will not be opensourced
 
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Renders/Case%201.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Renders/Case%202.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Renders/Case%203.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Renders/Case%204.png?raw=true)
  --- 
 
 ## PCB
