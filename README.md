@@ -3,16 +3,14 @@
 
 
 
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Misc/hokaku40.png?raw=true)
- --- 
-
 ## Case
 
 Hokaku uses a two peice alu case with a large weight that covers a majority of the bottom aswell as an accent peice on the back 
 plan to center the usb port and add some side details whenver i can be bothered 
 
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Renders/Case%203.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Renders/Case%204.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%201.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%203.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%202.png?raw=true)
  --- 
 
 ## PCB
