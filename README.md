@@ -9,17 +9,23 @@ Hokaku uses a two peice alu case with a large weight that covers a majority of t
 plan to center the usb port and add some side details whenver i can be bothered 
 
 ![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%201.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%206.png?raw=true)
 ![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%203.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%202.png?raw=true)
+
  --- 
 
 ## PCB
 
 same pcb as minaneko with  the two xt collums connecting into the jst cables
 
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/KLE/Hokaku%20V2.png?raw=true)
+
  --- 
 
 ## Misc
+
+Will open source/sell once ive confirmed it actually works 
+
 I plan to sell this board instock in the future once my storefront is at 
 this board is untested at the momment i do not recomend producing it 
 DM xshrimped on discord if you have any questions
