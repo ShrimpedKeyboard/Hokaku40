@@ -1,12 +1,12 @@
 # Hokaku40 V2
-## a 40% keyboard with two XT Collums and a magnetic badge
+## a 40% keyboard with two XT Collums
 
 
 
 ## Case
 
-Hokaku uses a two peice alu case with a large weight that covers a majority of the bottom aswell as an accent peice on the back 
-plan to center the usb port and add some side details whenver i can be bothered 
+The hokaku is a three Peice case with a large accent bar and two badges.
+The case uses four taobao ball catch mounting systems that screw into the case. Mounts avaliable for this board are Tadpole, Gasket, Top and oring the latter needing a different plate from the others 
 
 ![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%201.png?raw=true)
 ![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%206.png?raw=true)
@@ -16,9 +16,8 @@ plan to center the usb port and add some side details whenver i can be bothered
 
 ## PCB
 
-same pcb as minaneko with  the two xt collums connecting into the jst cables
+This board Shares the Hotswap, Modular RP2040 Shrimp40 PCB with the Minaneko and Invertex
 
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/KLE/Hokaku%20V2.png?raw=true)
 
  --- 
 
