@@ -8,9 +8,9 @@
 The hokaku is a three Peice case with a large accent bar and two badges.
 The case uses four taobao ball catch mounting systems that screw into the case. Mounts avaliable for this board are Tadpole, Gasket, Top and oring the latter needing a different plate from the others 
 
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%201.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%206.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Case%203.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Hokaku%20Great%20wave%205.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Hokaku%20Hammer%20head%202.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Hokaku40/blob/main/Gallery/Hokaku%20Tako%203.png?raw=true)
 
  --- 
 
